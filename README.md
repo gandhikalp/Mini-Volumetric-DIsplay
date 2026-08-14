@@ -42,6 +42,7 @@ Core 1 (non-critical):\
 → WiFi connection\
 → OTA wireless firmware updates\
 → Web debug dashboard
+
 ---
 
 ## Current Progress
@@ -113,4 +114,4 @@ See [docs/build_log.md](docs/build_log.md)
 Gandhi Kalp — 2nd year B.Tech Civil Engineering, IIT ISM Dhanbad  
 Interests: Robotics, Embedded Systems, IoT, Volumetric Display Technology
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/gandhikalpniravkumar)
+Check my [LinkedIn](www.linkedin.com/in/gandhikalpniravkumar)
