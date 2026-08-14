@@ -5,6 +5,7 @@ scotch yoke mechanism, custom SMT PCB, and Waveshare ESP32-S3-Matrix.
 
 **Status:** Electronics and PCB tested ✅ | Mechanical assembly pending 🔄
 
+> ⚠️ **Note:** This is an active prototype project. Thus, Hardware files and firmware are subject to rapid iterations.
 ---
 
 ## What This Is
