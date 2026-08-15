@@ -106,13 +106,12 @@ See [docs/build_log.md](docs/build_log.md)
 
 - [Matthew Lim's mini volumetric display](https://youtu.be/KgT20tHpk1g?si=lmqNyyaOBYBv9zQp)
 - [Voxon Photonics VX1/VX2](https://voxon.co)
-- [Volumen — Hackaday](https://hackaday.io/...)
 
 ---
 
 ## Author
 
 Gandhi Kalp — 2nd year B.Tech Civil Engineering, IIT ISM Dhanbad  
-Interests: Robotics, Embedded Systems, IoT, Volumetric Display Technology
+Interests: Robotics, Embedded Systems, IoT, ML and Automation
 
-Check my [LinkedIn](www.linkedin.com/in/gandhikalpniravkumar)
+Check my [LinkedIn](https://www.linkedin.com/in/gandhikalpniravkumar/?skipRedirect=true)
