@@ -53,6 +53,7 @@ Core 1 (non-critical):\
 - [DONE] Dual opto interrupter timing verified
 - [DONE] Dual-core firmware with WiFi debug dashboard
 - [DONE] OTA wireless firmware updates
+- [PENDING] Desgining cad v_2
 - [PENDING] Mechanical assembly
 - [PENDING] Volumetric slice display firmware
 
