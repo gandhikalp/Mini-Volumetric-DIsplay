@@ -67,7 +67,7 @@ Core 1 (non-critical):\
 │       ├── failed_design/     # First design + notes on why it failed
 │       └── current_design/    # Current redesigned mechanism
 ├── firmware/              # Arduino IDE sketches
-├── docs/                  # Build log, images, notes
+├── build_log/                  # Build log, images
 └── references/            # Inspiration and related work
 ```
 ---
@@ -98,7 +98,7 @@ Scotch Yoke produces Simple Harmonic Motion:
 
 ## Build Log
 
-See [docs/build_log.md](docs/build_log.md)
+See [build_log.md](build_log/build_log.md)
 
 ---
 
